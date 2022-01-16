@@ -1,0 +1,6 @@
+(),valid
+)(,invalid
+(),valid
+((,invalid
+(),valid
+)),invalid
